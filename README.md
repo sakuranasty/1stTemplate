@@ -1,2 +1,2 @@
 # 1stTemplate
-the 1st template used n webdew lesson
+The 1st template used on webdew school. 
